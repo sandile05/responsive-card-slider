@@ -22,3 +22,8 @@ body{
 .card .image-box img{
     height: 100%;
 }
+
+.card .profile-details img{
+    height: 40px;
+    width: 40px;
+}
